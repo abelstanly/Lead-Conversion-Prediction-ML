@@ -91,27 +91,31 @@ The model can also generate conversion probabilities, allowing sales teams to pr
 
 ### EDA – Conversion Analysis by Source
 
-![EDA Conversion Analysis By Source](Screenshots/EDA%20Conversion%20Analysis%20By%20Source.png)
+![EDA Conversion Analysis By Source](Screenshots/1.%20EDA%20Conversion%20Analysis%20By%20Source.jpg)
 
 ### EDA – Conversion Analysis by Campaign
 
-![EDA Conversion Analysis By Campaign](Screenshots/EDA%20Conversion%20Analysis%20By%20Campaign.png)
+![EDA Conversion Analysis By Campaign](Screenshots/2.%20EDA%20Conversion%20Analysis%20By%20Campaign.jpg)
 
 ### EDA – Conversion Analysis by Agent
 
-![EDA Conversion Analysis By Agent](Screenshots/EDA%20Conversion%20Analysis%20By%20Agent.png)
+![EDA Conversion Analysis By Agent](Screenshots/3.%20EDA%20Conversion%20Analysis%20By%20Agent.jpg)
 
-### Model Comparison
+### 5-Fold Cross Validation Accuracy
 
-![Model Comparison](Screenshots/Model%20Comparison%201.png)
+![5 Fold Cross Validation Accuracy](Screenshots/4.%205%20Fold%20Cross%20Validation%20Accuracy.jpg)
 
 ### ROC-AUC Comparison
 
-![ROC-AUC Comparison](Screenshots/ROC-AUC%20Comparison.png)
+![ROC-AUC Comparison](Screenshots/5.%20ROC-AUC%20Comparison.jpg)
+
+### Model Comparison
+
+![Model Comparison](Screenshots/6.%20Model%20Comparison.jpg)
 
 ### Random Forest Feature Importance
 
-![Feature Importance](Screenshots/Feature%20Importance.png)
+![Feature Importance](Screenshots/7.%20Feature%20Importance.jpg)
 
 ## ⚠️ Limitations
 
@@ -139,12 +143,13 @@ Lead-Conversion-Prediction-ML/
 │   └── Lead_Conversion_Prediction_using_ML_(RF).ipynb
 │
 ├── Screenshots/
-│   ├── EDA Conversion Analysis By Agent.png
-│   ├── EDA Conversion Analysis By Campaign.png
-│   ├── EDA Conversion Analysis By Source.png
-│   ├── Feature Importance.png
-│   ├── Model Comparison 1.png
-│   └── ROC-AUC Comparison.png
+│   ├── 1. EDA Conversion Analysis By Source.jpg
+│   ├── 2. EDA Conversion Analysis By Campaign.jpg
+│   ├── 3. EDA Conversion Analysis By Agent.jpg
+│   ├── 4. 5 Fold Cross Validation Accuracy.jpg
+│   ├── 5. ROC-AUC Comparison.jpg
+│   ├── 6. Model Comparison.jpg
+│   └── 7. Feature Importance.jpg
 │
 ├── README.md
 └── Requirements.txt
